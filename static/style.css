@@ -1,0 +1,24 @@
+.logo__mark, .logo__cursor, .theme-toggle {
+  display: none;
+}
+
+.menu {
+  border-right-style: none;
+  padding-right: 0;
+  margin-right: 0;
+}
+
+.footer__inner {
+  justify-content: center;
+}
+
+footer .logo__text {
+  display: none;
+}
+
+.header {
+  color: white;
+  background: #8E0E00;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #1F1C18, #8E0E00);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #1F1C18, #8E0E00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+              }
