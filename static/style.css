@@ -1,16 +1,6 @@
-.header {
-  color: white;
-  background: #990000;
-}
 
-.logo__mark, .logo__cursor, .theme-toggle, footer .logo {
+.logo__mark, .logo__cursor, footer .logo {
   display: none;
-}
-
-.menu {
-  border-right-style: none;
-  padding-right: 0;
-  margin-right: 0;
 }
 
 .footer__inner {
